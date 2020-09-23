@@ -2,7 +2,7 @@
  * atmega_328.c
  *
  * Created: 25-Sep-16 19:26:58
- *  Author: Shashank more
+ *  Author: Rishav Guha
  */ 
 
 
